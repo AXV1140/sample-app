@@ -1,19 +1,11 @@
 {
-  "name": "sample-app",
-  "version": "1.0.0",
-  "description": "sample app just to demonstrate the web server using nodejs",
-  "main": "main.js",
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "Node simple server",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AXV1140/sample-app.git"
-  },
-  "author": "@anuragvatsa",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AXV1140/sample-app/issues"
-  },
-  "homepage": "https://github.com/AXV1140/sample-app#readme"
+  "author": "Brad Traversy",
+  "license": "ISC"
 }
