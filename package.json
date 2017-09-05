@@ -1,0 +1,20 @@
+{
+  "name": "node-server-app",
+  "version": "0.0.1",
+  "description": "simple server app using node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AXV1140/sample-app.git"
+  },
+  "author": "Anurag Vatsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AXV1140/sample-app/issues"
+  },
+  "homepage": "https://github.com/AXV1140/sample-app#readme"
+}
